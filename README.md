@@ -1,7 +1,8 @@
 # Airbnb Distribution Analysis 
-###### Data Analysis Group Project by Team 'BeautifulSoup4' 
 ######  Ming Jin, Leyi Mai, Yuemeng Zhang, Zijie Ding 
 
+## Introduction
+This is a data analytics group project for Course IEOR 4123 at Columbia by team BeautifulSoup4. The main work is displayed at notebook airbnb_project_codes_BeautifulSoap4.ipynb. There is also a summary report airbnb_slides_BeautifulSoap4.pdf.  
 
 ## Goal
 When Airbnb decides to expand to a new city, it is crucial to gain insights into the Airbnb Distribution Pattern to perfect budgeting and advertising strategies in that city. Therefore, our team aims to analyze relevant factors that impact airbnb’s spatial distribution and build prediction and classification models. We picked three representative cities on the East Coast, New York, Boston and Washington D.C., for our investigation.
